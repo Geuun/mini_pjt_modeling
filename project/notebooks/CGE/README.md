@@ -27,7 +27,7 @@ CGE's Jupyter Notebook Directory
     2. 👍🏻[모델이 학습하면서 feature 선택](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SequentialFeatureSelector.html)
 
 
-### Modeling(train = 8:2로 진행, random states = 0xC0FFEE)
+### Modeling(train,test= 8:2로 진행, random states = 0xC0FFEE)
    - **XGBoost**, LGBM, Catboost 
 
 
