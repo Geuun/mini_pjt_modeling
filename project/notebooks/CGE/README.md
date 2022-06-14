@@ -1,7 +1,5 @@
 CGE's Jupyter Notebook Directory
 
-CGE's Jupyter Notebook Directory
-
 # IEEE-CIS Fraud Detection Modeling 
 
 <font size="5">[kaggle](https://www.kaggle.com/competitions/ieee-fraud-detection/overview/description)</font>
