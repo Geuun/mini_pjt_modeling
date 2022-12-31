@@ -13,6 +13,12 @@
 |:----:| --------------------------------------|
 | [IEEE-CIS Fraud Detection(거래 사기 탐지)](https://www.kaggle.com/c/ieee-fraud-detection) | 온라인 거래 중 `사기일 확률`을 예측하기 |
 
+### 🫰🏻Contributors
+
+<a href="https://github.com/geuun/mini_pjt_modeling/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=geuun/mini_pjt_modeling" />
+</a>
+
 ---
 
 **About Team**
